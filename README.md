@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/PLM4/PLM4/refs/heads/main/wave.svg" alt="Ondinha" style="width:100%;"/>
-
-## Olá, me chamo Pedro Lucas 
+## Olá, me chamo Pedro Lucas!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLM4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,8 +19,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_plmm04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lucas-de-melo-moraes-5223662bb)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrolucasmelo051@gmail.com)
-
-## 🏆 Troféus GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=PLM4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://raw.githubusercontent.com/PLM4/PLM4/refs/heads/main/wave (1).svg" alt="Ondinha2" style="width:100%;"/>
