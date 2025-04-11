@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/PLM4/PLM4/refs/heads/main/wave.svg" alt="Ondinha" style="width:100%;"/>
+
 ## Olá, me chamo Pedro Lucas 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLM4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +25,4 @@
 ## 🏆 Troféus GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=PLM4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
-
+<img src="https://raw.githubusercontent.com/PLM4/PLM4/refs/heads/main/wave1.svg" alt="Ondinha2" style="width:100%;"/>
