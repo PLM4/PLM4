@@ -25,4 +25,4 @@
 ## 🏆 Troféus GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=PLM4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://raw.githubusercontent.com/PLM4/PLM4/refs/heads/main/wave1.svg" alt="Ondinha2" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/PLM4/PLM4/refs/heads/main/wave (1).svg" alt="Ondinha2" style="width:100%;"/>
