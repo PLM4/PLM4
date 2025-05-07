@@ -1,4 +1,4 @@
-## Olá, me chamo Pedro Lucas!
+## Hello world, my name is Pedro Lucas!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lucas-de-melo-moraes-5223662bb) 
