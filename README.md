@@ -71,14 +71,3 @@
   <img width="12" />
 </div>
 
-
-###
-
-<br clear = "both" >
-
-<div align ="center">
-  <img src = "https://github.com/PLM4/PLM4/blob/output/dist/github-contribution-grid-snake-dark.svg" alt= "Snake animation" />
-</div>
-
-###
-  <img width="12" />
