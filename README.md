@@ -5,8 +5,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://www.linkedin.com/in/pedro-lucas-de-melo-moraes-5223662bb/"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=#CC8FAB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" href="https://www.instagram.com/_plmm04/" />
+  <a href="https://www.linkedin.com/in/pedro-lucas-de-melo-moraes-5223662bb/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/_plmm04/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
 </div>
 
 ###
@@ -60,7 +64,6 @@
 
 <div align="center">
   <h2>🛠 Tools</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
